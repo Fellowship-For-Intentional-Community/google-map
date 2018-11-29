@@ -9,7 +9,7 @@
     "maps"
   ],
   "homepage": "https://elements.polymer-project.org/elements/google-map",
-  "name": "fic/google-map",
+  "name": "google-map",
   "version": "2.0.5",
   "resolutions": {
     "inherits": "2.0.3",
